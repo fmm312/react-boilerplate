@@ -1,0 +1,16 @@
+{
+  "bumpFiles": [
+    {
+      "filename": "package.json",
+      "type": "json"
+    }
+  ],
+    "tipos": [
+      {"type": "feat", "section": "Novas funcionalidades", "hidden": false},
+      {"type": "fix", "section": "Correções de bugs", "hidden": false},
+      {"type": "chore", "section": "Outros", "hidden": false},
+      {"type": "docs", "section": "Documentações", "hidden": false},
+      {"type": "refactor", "section": "Refatorações", "hidden": false},
+      {"type": "style", "section": "Estilização", "hidden": true}
+    ]
+  }
