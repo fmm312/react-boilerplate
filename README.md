@@ -19,11 +19,10 @@ This project presents an organization and structure with several interesting con
   - TypeScript
   - Styled-Components
   - Routes configuration
-  - Eslint and Prittier
+  - Eslint and Prettier
   - Conventional commits with commitizen and husky
   - Semantic release for generate automatic releases
   - .env and api_base_url
-  - Eslint
   - Redux configuration
   - Creating themes (dark/ligth) and global styles
 
